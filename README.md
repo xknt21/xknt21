@@ -1,4 +1,4 @@
-# 💫 Hi, I'm kanato!:
+# 💫 Hi, I'm kanato!
 🧑🏻‍💻Japanese Uni student studying Computer Science sharing about my journey and learnings tech<br>👨🏻‍🎓Studying Computer Science at the University of Ritsumeikan , Japan<br>📍I wanna be a data scientist 
 
 
